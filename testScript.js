@@ -1,3 +1,4 @@
+//edited template
 // JavaScript Document
 
 document.ready(
